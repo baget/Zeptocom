@@ -1,5 +1,5 @@
 # Zeptocom
-> Yet another quick and dirty Serial (COM Port) Console Terminal, Written in .NET 5
+> 💻 Yet another quick and dirty Serial (COM Port) Console Terminal, Written in .NET 5 💻
 
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/baget/zeptocom/blob/master/LICENSE)
 [![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://GitHub.com/baget/zeptocom/releases/)
@@ -51,6 +51,8 @@ Distributed under the MTI license. See ``LICENSE`` for more information.
 5. Create a new Pull Request
 
 [![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/Naereen/badges)
+
+[![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://GitHub.com/baget/)
 
 <!-- Markdown link & img dfn's -->
 [wiki]: https://github.com/baget/zeptocom/wiki
