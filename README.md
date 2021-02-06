@@ -2,6 +2,7 @@
 > Yet another quick and dirty Serial (COM Port) Console Terminal, Written in .NET 5
 
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/baget/zeptocom/blob/master/LICENSE)
+[![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://GitHub.com/baget/zeptocom/releases/)
 
 This project is development to be quick in order to provide a console Serial terminal that run in Windows Console (command line)
 it also support [Windows Terminal](https://github.com/microsoft/terminal)
@@ -30,7 +31,7 @@ dotnet run
 
 ## Release History
 
-* 0.0.1
+* 0.1.0
     * Work in progress
 
 ## Meta
@@ -49,10 +50,10 @@ Distributed under the MTI license. See ``LICENSE`` for more information.
 4. Push to the branch (`git push origin feature/fooBar`)
 5. Create a new Pull Request
 
+[![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/Naereen/badges)
+
 <!-- Markdown link & img dfn's -->
-[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/datadog-metrics
-[npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
-[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
-[wiki]: https://github.com/yourname/yourproject/wiki
+[wiki]: https://github.com/baget/zeptocom/wiki
+
+
+
