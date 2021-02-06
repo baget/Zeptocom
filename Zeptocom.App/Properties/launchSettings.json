@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Zeptocom.App": {
+      "commandName": "Project",
+      "commandLineArgs": "COM4"
+    }
+  }
+}
