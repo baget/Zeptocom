@@ -4,7 +4,7 @@
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/baget/zeptocom/blob/master/LICENSE)
 [![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://GitHub.com/baget/zeptocom/releases/)
 
-This project is development to be quick in order to provide a console Serial terminal that run in Windows Console (command line)
+This project is developed as a quick and dirty in order to provide a console Serial terminal that run in Windows Console (command line)
 it also support [Windows Terminal](https://github.com/microsoft/terminal)
 
 ![](img/screenshot1.png)
